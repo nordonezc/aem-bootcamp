@@ -1,0 +1,56 @@
+
+div.separator-color-gray > div > hr.cmp-separator__horizontal-rule{
+	color: #878787;
+}
+
+div.separator-color-black > div > hr.cmp-separator__horizontal-rule {
+	color: #000;
+}
+
+div.separator-color-white > div > hr.cmp-separator__horizontal-rule {
+	color: #FFFFFF;
+}
+
+div.separator-color-yellow > div > hr.cmp-separator__horizontal-rule{
+	color: #F4FF00;
+}
+
+div.separator-color-red > div > hr.cmp-separator__horizontal-rule{
+	color: #FF0000;
+}
+
+div.separator-color-blue > div > hr.cmp-separator__horizontal-rule {
+	color: #0024FF;
+}
+
+
+div.separator-width-30 > div > hr.cmp-separator__horizontal-rule{
+	width: 30%;
+}
+
+div.separator-width-50 > div > hr.cmp-separator__horizontal-rule{
+	width: 50%;
+}
+
+div.separator-width-80 > div > hr.cmp-separator__horizontal-rule{
+	width: 80%;
+}
+
+div.separator-width-100 > div > hr.cmp-separator__horizontal-rule {
+	width: 80%;
+}
+
+div.separator-style-solid > div > hr.cmp-separator__horizontal-rule{
+	border-syle: solid;
+}
+
+div.separator-style-dashed > div > hr.cmp-separator__horizontal-rule{
+	border-syle: dashed;
+}
+
+
+div.separator-style-dotted > div > hr.cmp-separator__horizontal-rule{
+	border-syle: dotted;
+}
+
+
